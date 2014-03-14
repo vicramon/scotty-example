@@ -1,0 +1,9 @@
+Name:           basic
+Version:        0.1
+License-file:   LICENSE
+Author:         Vic Ramon
+Maintainer:     Vic Ramon
+build-depends:  scotty
+
+Executable:     basic
+Main-Is:        Basic.hs
